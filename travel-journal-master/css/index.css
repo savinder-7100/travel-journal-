@@ -1,0 +1,42 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+header
+{
+    background-color: rgb(77, 76, 76);
+}
+h1{
+    color:white;
+    font-size: 70px;
+    text-align: center;
+    padding: 0.15em;
+    font-family: sans-serif;
+}
+/*h2 a
+{
+    text-decoration: none;
+    font-size:60px;
+    color: rgb(77, 221, 226);
+    font-family: 'Modak', cursive;
+}*/
+.citytoronto
+{
+    position: relative;
+    text-align: center;
+}
+.city-name
+{
+   position: absolute;
+   text-decoration: none;
+   font-size:60px;
+   color: rgb(77, 221, 226);
+   font-family: 'Modak', cursive;
+}
+.city-photo
+{
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
